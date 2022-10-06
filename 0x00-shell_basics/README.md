@@ -1,1 +1,2 @@
-pwannn
+'#!/bin/bash'
+'pwd'
